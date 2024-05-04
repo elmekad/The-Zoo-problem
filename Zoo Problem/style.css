@@ -1,0 +1,22 @@
+body {  
+background-color: rgb(78, 145, 145);
+}
+img {
+    width: 200px;
+}
+button{
+    position: relative;
+    left: 90px;
+    bottom: 39px;
+}
+header{
+    margin-inline-start: 27px;
+}
+h4{
+    font-size: 25px;  
+    font-weight: bolder;    
+
+}
+h5{
+    font-size: large; 
+}
